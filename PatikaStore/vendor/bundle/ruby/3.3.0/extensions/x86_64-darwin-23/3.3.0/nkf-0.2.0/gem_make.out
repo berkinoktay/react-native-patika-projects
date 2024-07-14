@@ -1,0 +1,18 @@
+current directory: /Users/berkin/My_Code_Workspace/PatikaStore/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/berkin/My_Code_Workspace/PatikaStore/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240706-97927-vfdyll sitelibdir\=./.gem.20240706-97927-vfdyll clean
+
+current directory: /Users/berkin/My_Code_Workspace/PatikaStore/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240706-97927-vfdyll sitelibdir\=./.gem.20240706-97927-vfdyll
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/berkin/My_Code_Workspace/PatikaStore/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240706-97927-vfdyll sitelibdir\=./.gem.20240706-97927-vfdyll install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240706-97927-vfdyll
+
+current directory: /Users/berkin/My_Code_Workspace/PatikaStore/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240706-97927-vfdyll sitelibdir\=./.gem.20240706-97927-vfdyll clean

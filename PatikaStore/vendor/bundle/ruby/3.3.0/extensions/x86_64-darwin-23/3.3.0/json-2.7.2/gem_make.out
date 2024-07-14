@@ -1,0 +1,16 @@
+current directory: /Users/berkin/My_Code_Workspace/PatikaStore/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/berkin/My_Code_Workspace/PatikaStore/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240706-97927-rdyjji sitelibdir\=./.gem.20240706-97927-rdyjji clean
+
+current directory: /Users/berkin/My_Code_Workspace/PatikaStore/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240706-97927-rdyjji sitelibdir\=./.gem.20240706-97927-rdyjji
+make: Nothing to be done for `all'.
+
+current directory: /Users/berkin/My_Code_Workspace/PatikaStore/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240706-97927-rdyjji sitelibdir\=./.gem.20240706-97927-rdyjji install
+
+current directory: /Users/berkin/My_Code_Workspace/PatikaStore/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240706-97927-rdyjji sitelibdir\=./.gem.20240706-97927-rdyjji clean
