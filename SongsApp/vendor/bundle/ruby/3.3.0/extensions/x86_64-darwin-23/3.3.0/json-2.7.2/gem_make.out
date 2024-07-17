@@ -1,0 +1,16 @@
+current directory: /Users/berkin/My_Code_Workspace/react-native-patika-projects/MusicApp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/berkin/My_Code_Workspace/react-native-patika-projects/MusicApp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240717-64029-fx5kwi sitelibdir\=./.gem.20240717-64029-fx5kwi clean
+
+current directory: /Users/berkin/My_Code_Workspace/react-native-patika-projects/MusicApp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240717-64029-fx5kwi sitelibdir\=./.gem.20240717-64029-fx5kwi
+make: Nothing to be done for `all'.
+
+current directory: /Users/berkin/My_Code_Workspace/react-native-patika-projects/MusicApp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240717-64029-fx5kwi sitelibdir\=./.gem.20240717-64029-fx5kwi install
+
+current directory: /Users/berkin/My_Code_Workspace/react-native-patika-projects/MusicApp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240717-64029-fx5kwi sitelibdir\=./.gem.20240717-64029-fx5kwi clean
